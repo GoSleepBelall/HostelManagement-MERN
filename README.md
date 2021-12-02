@@ -7,5 +7,5 @@ I'm trying new things
 
 
 ````
-$ hello world
+$ this is how to write code
 ````
