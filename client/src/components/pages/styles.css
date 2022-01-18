@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+button{
+    background-color:rgba(45,45,45,0.8  );border-radius:10px;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    background-color: rgba(45,45,45,0.6);
+    transition: all ease-in-out 0.2s;
+}
+.mid{
+    min-width: 99vw;
+}
