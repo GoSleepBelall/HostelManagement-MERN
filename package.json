@@ -1,0 +1,19 @@
+{
+  "name": "temporarygit",
+  "version": "1.0.0",
+  "description": "Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoSleepBelall/temporaryGit.git"
+  },
+  "author": "0167, 0305, 0364",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoSleepBelall/temporaryGit/issues"
+  },
+  "homepage": "https://github.com/GoSleepBelall/temporaryGit#readme"
+}
