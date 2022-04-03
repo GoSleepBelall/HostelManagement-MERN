@@ -1,9 +1,9 @@
-# temporaryGit
-# Heading 1
-hey there, this is my first git repositry, although I've been working from past two years but never commited my files
-or never contributed to the industry which gave me everything.
-## Sub Heading 1
-I'm trying new things
+# Hostel Management System
+# Implemented in MERN Stack (MongoDb, Express, ReactJs, NodeJs)
+The Project was created for the academical purposes as the semester project of 'Web Devolpment' course.
+To run the Application:
+Clone the repository
+run ````npm install````
 
 
 ````
